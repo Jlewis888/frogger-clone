@@ -1,6 +1,7 @@
-frontend-nanodegree-arcade-game
-===============================
+Frogger Arcade Clone
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+How-to-run: Click on index.html and enjoy the app!!!!
 
-for self-checking their submission.
+Goal: Get Hero to the water while avoiding the enemy bugs.
+
+Controls: User uses up/down/left/up arrow keys to move hero.
